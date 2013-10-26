@@ -44,7 +44,6 @@ body {
 		<button type="button" id="center">Center</button>
 		zoom&nbsp;-&nbsp;
 		<div id="zoom"></div>
-		 lacation&nbsp;-&nbsp;<div id="lacation"></div>
 	</div>
 	<div id="map_canvas"></div>
 </body>
